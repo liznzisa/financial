@@ -3,30 +3,16 @@
 const users = [
     {
       id: '410544b2-4001-4271-9855-fec4b6a6442a',
-      name: 'Gabriel',
+      name: 'User',
       email: 'user@nextmail.com',
       password: '123456',
     },
-    
-    {
-      id:'410542b2-4001-4271-9855-fec4b6a6442a',
-      name: 'Eliza',
-      email: 'khadijamachocho@gmail.com',
-      password:'200306',
-    },
   ];
-
   
   const customers = [
     {
       id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
-      name: 'eric',
-      email: 'evil@rabbit.com',
-      image_url: '/customers/evil-rabbit.png',
-    },
-    {
-      id: 'd6e15327-9fe1-4961-8c5b-ea44a9bd81aa',
-      name: 'you Rabbit',
+      name: 'Evil Rabbit',
       email: 'evil@rabbit.com',
       image_url: '/customers/evil-rabbit.png',
     },
@@ -44,25 +30,19 @@ const users = [
     },
     {
       id: '76d65c26-f784-44a2-ac19-586678f7c2f2',
-      name: 'Khadija',
+      name: 'Michael Novotny',
       email: 'michael@novotny.com',
       image_url: '/customers/michael-novotny.png',
     },
     {
-    id: 'd6e15326-9fe1-4966-8c5b-ea44a9bd81aa',
-    name: 'Elizaa',
-    email: 'evil@rabbit.com',
-    image_url: '/customers/evil-rabbit.png',
-  },
-    {
       id: 'CC27C14A-0ACF-4F4A-A6C9-D45682C144B9',
-      name: 'joan Burns',
+      name: 'Amy Burns',
       email: 'amy@burns.com',
       image_url: '/customers/amy-burns.png',
     },
     {
       id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
-      name: 'Walter Orban',
+      name: 'Balazs Orban',
       email: 'balazs@orban.com',
       image_url: '/customers/balazs-orban.png',
     },

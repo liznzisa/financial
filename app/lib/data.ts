@@ -1,5 +1,5 @@
 import { query } from "./db";
-import { formatCurrency } from "./utilis";
+import { formatCurrency } from "./utils";
 import {
   CustomerField,
   CustomersTableType,
